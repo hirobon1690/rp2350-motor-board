@@ -1,0 +1,9 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C2,C,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,22.5,5.5,270.0,bottom
+C4,C,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,4.5,5.5,270.0,bottom
+Grove1,Conn_01x04,JST_PH_S4B-PH-K_1x04_P2.00mm_Horizontal,17.0,6.45,0.0,top
+J1,Conn_01x10,PinSocket_1x10_P2.54mm_Vertical,2.54,17.23,0.0,top
+J2,Conn_01x10,PinSocket_1x10_P2.54mm_Vertical,30.48,17.27,0.0,top
+U1,TB67H450FNG_EL,SOIC127P599X175-9N,26.5,5.0,90.0,bottom
+U2,XIAO-RP2350-SMD,XIAO-RP2350-SMD,16.676506,19.63,0.0,top
+U3,TB67H450FNG_EL,SOIC127P599X175-9N,8.5,4.97,90.0,bottom

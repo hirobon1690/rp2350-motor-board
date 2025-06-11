@@ -1,0 +1,9 @@
+Comment,Designator,Footprint,LCSC,Quantity
+Conn_01x10,J2,PinSocket_1x10_P2.54mm_Vertical,,1
+Conn_01x04,Grove1,JST_PH_S4B-PH-K_1x04_P2.00mm_Horizontal,,1
+Conn_01x10,J1,PinSocket_1x10_P2.54mm_Vertical,,1
+XIAO-RP2350-SMD,U2,XIAO-RP2350-SMD,,1
+C,C4,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,,1
+C,C2,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,,1
+TB67H450FNG_EL,U1,SOIC127P599X175-9N,,1
+TB67H450FNG_EL,U3,SOIC127P599X175-9N,,1
